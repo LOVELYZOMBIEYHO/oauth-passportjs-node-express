@@ -11,3 +11,7 @@ Use:
 "npm run dev" or
 "npx nodemon index.js" or
 "node index"
+
+
+For Mac user:
+If there is a error of untrust file (bcrypt_lib.node) when download the folder on Github (zip).  Just open once with text editor and can run "node index" again.
